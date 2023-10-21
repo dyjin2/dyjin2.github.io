@@ -17,7 +17,7 @@ Projects
 BioLab Assistant Robot
 ------
 Design and Control of Magnetic Microrobot
-
+------
 
 Honors and Awards
 ======
