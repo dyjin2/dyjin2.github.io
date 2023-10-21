@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a first phd student from [Cornell ECE](https://www.ece.cornell.edu/ece). My research focus on the intersection of Robotics and Agriculture.
 
-[Email](dj368@cornell.edu) / [Wechat](../images/wechat.jpg) / [Instagram](../images/ins.jpg)
+[Email](dj368@cornell.edu) / [Wechat](../images/wechat.png) / [Instagram](../images/ins.png)
