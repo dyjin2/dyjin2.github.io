@@ -14,17 +14,16 @@ I'm a first phd student from [Electrical and Computer Engineering](https://www.e
 
 Projects
 ======
-
-BioLab Assistant Robot
+# BioLab Assistant Robot
 ------
-
-Design and Control of Magnetic Microrobot
+@ CAIR
+# Design and Control of Magnetic Microrobot
 ------
+@ Multiscale Robotic Manipulation Lab
 
 Honors and Awards
 ======
 1. Outstanding Graduates of Zhejiang Province, 2023
-1. Outstanding Graduates of Zhejiang University, 2023
 1. Best Ten Undergraduate Theses, College of Biosystems Engineering and Food Science, 2023
 1. National Scholarship, China, 2021
 1. Best Electronic Presentation, ASABE Robotics Competition, 2021
