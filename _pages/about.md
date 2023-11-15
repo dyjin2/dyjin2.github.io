@@ -24,7 +24,7 @@ Projects
 Honors and Awards
 ======
 1. Outstanding Graduates of Zhejiang Province, 2023
-1. Best Ten Undergraduate Theses, College of Biosystems Engineering and Food Science, 2023
+<!-- 1. Best Ten Undergraduate Theses, College of Biosystems Engineering and Food Science, 2023 -->
 1. National Scholarship, China, 2021
 1. Best Electronic Presentation, ASABE Robotics Competition, 2021
-1. First Class Scholarship, Zhejiang University, 2020, 2021, 2022
+<!-- 1. First Class Scholarship, Zhejiang University, 2020, 2021, 2022 -->
