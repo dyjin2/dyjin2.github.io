@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Professor Yue Wang
 
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -51,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
