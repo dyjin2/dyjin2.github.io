@@ -17,11 +17,9 @@ Projects
 
 # Laboratory Assistant Robot
   @ CAIR, Cornell University
-------
 
 # Design and Control of Magnetic Microrobot
   @ Multiscale Robotic Manipulation Lab, Zhejiang University
-------
 
 Honors and Awards
 ======
