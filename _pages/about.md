@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year phd student in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece), [Cornell University](https://www.cornell.edu/). I'm a member of [CAIR](https://cair.cals.cornell.edu/), advised by Professor [Yu Jiang](https://cals.cornell.edu/yu-jiang). My research focuses on the intersection of Robotics and Agriculture. Previously, I was an undergraduate student at [College of Biosystems Engineering and Food Science](http://www.caefs.zju.edu.cn/caefsen/), [Zhejiang University](https://www.zju.edu.cn/english/).
+I'm a second-year phd student in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece), [Cornell University](https://www.cornell.edu/). I'm a member of [CAIR](https://cair.cals.cornell.edu/), advised by Professor [Yu Jiang](https://cals.cornell.edu/yu-jiang). My research focuses on the intersection of Robotics and Agriculture. Previously, I was an undergraduate student at [College of Biosystems Engineering and Food Science](http://www.caefs.zju.edu.cn/caefsen/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 <!-- [Email](dj368@cornell.edu) / [Wechat](../images/wechat.png) / [Instagram](../images/ins.png) -->
 
 Projects
 ======
 
-# Laboratory Assistant Robot
+## Laboratory Assistant Robot
   @ CAIR, Cornell University
 
-# Design and Control of Magnetic Microrobot
+## Design and Control of Magnetic Microrobot
   @ Multiscale Robotic Manipulation Lab, Zhejiang University
 
 Honors and Awards
