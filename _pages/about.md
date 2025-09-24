@@ -11,10 +11,14 @@ redirect_from:
 I'm a third-year phd student in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece), [Cornell University](https://www.cornell.edu/). I'm a member of [CAIR](https://cair.cals.cornell.edu/), advised by Professor [Yu Jiang](https://cals.cornell.edu/yu-jiang). My research focuses on the intersection of AI, Robotics, and Agriculture. Previously, I was an undergraduate student at [College of Biosystems Engineering and Food Science](http://www.caefs.zju.edu.cn/caefsen/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 <!-- [Email](dj368@cornell.edu) / [Wechat](../images/wechat.png) / [Instagram](../images/ins.png) -->
+[LinkedIn](https://www.linkedin.com/in/dyjin/) / [Scholar](https://scholar.google.com/citations?user=5HkrPegAAAAJ&hl=en&oi=ao)
 
 Projects
 ======
 
+### Aleks: AI powered Multi Agent System for Autonomous Scientific Discovery via Data-Driven Approaches in Plant Science
+  @ CAIR, Cornell University
+  
 ### Laboratory Assistant Robot
   @ CAIR, Cornell University
 
@@ -24,7 +28,7 @@ Projects
 Honors and Awards
 ======
 <!-- 1. Best Ten Undergraduate Theses, College of Biosystems Engineering and Food Science, 2023 -->
-1. Outstanding Graduates of Zhejiang Province, 2023
-1. National Scholarship, China, 2021
-1. Best Electronic Presentation, ASABE Robotics Competition, 2021
+- Outstanding Graduates of Zhejiang Province, 2023
+- National Scholarship, China, 2021
+- Best Electronic Presentation, ASABE Robotics Competition, 2021
 <!-- 1. First Class Scholarship, Zhejiang University, 2020, 2021, 2022 -->
