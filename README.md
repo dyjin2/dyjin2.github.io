@@ -18,6 +18,4 @@ GitHub repository Settings → Pages → Deploy from a branch → `main` → `/ 
 
 ## Backup
 
-`archive-old-site` preserves the original site at commit `bba468c21b609c68d382ff1a63e1febd6669005d`. The previous `master` branch is also retained. To restore the old site, point Pages at `archive-old-site` and the root folder.
-
-The new layout was independently implemented, inspired by the simple academic homepage at https://youngxinyu1802.github.io/.
+`archive-old-site` preserves the original site. The previous `master` branch is also retained. To restore the old site, point Pages at `archive-old-site` and the root folder.
