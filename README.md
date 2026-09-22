@@ -4,13 +4,13 @@ Static HTML and CSS, hosted at https://dyjin2.github.io/. No build tools, packag
 
 ## Update the site
 
-- Edit `index.html` for biography, news, research, publications, education, talks, and Misc. Search for `EDIT MISC` to find the personal placeholder.
+- Edit `index.html` for biography, news, publications, education, talks, awards, and Misc. Search for `EDIT MISC` to find the personal interests paragraph. Selected Research is preserved inside an HTML comment and does not render; remove its surrounding comment to restore it.
 - Edit `style.css` for appearance and mobile layout.
 - Replace `assets/boston_crop.jpg` to update the portrait.
 - Replace `assets/Daoyuan_Jin_CV.pdf` to update the CV. Remove private contact information, including phone numbers, from the PDF itself and its links before uploading.
 - Update the footer's month and year after content changes.
 
-The source CV is dated September 2025; candidacy was updated from the owner's August 11, 2026 announcement. Talks are a placeholder because the CV supplies none. Advisor and lab links come from the previous homepage. Publication links were checked against paper records.
+The source CV is dated September 2025; candidacy was updated from the owner's August 11, 2026 announcement. Talks and personal interests were supplied by the owner in September 2026. Advisor and lab links and the three awards come from the archived homepage (the uploaded CV does not list awards). The two 2026 publications were found on the owner's Google Scholar profile and verified against ASABE publisher records, including author lists and DOI links.
 
 ## Hosting
 
